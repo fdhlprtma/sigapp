@@ -8,7 +8,7 @@ function Footer() {
                 </div>
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-6 my-5 text-[#5E5E5E]">
                     <div>
-                        <p className="font-semibold text-lg">“Aspirasi Nyata, Komunitas Berkarya”</p>
+                        <p className="font-semibold text-lg">“Sistem Informasi Gabungan Aksi Pelaporan”</p>
                         <p className="text-sm mt-2">
                             Platform digital untuk menyampaikan aspirasi dan laporan warga kepada pengurus RT secara mudah dan cepat.
                         </p>
@@ -23,7 +23,7 @@ function Footer() {
                     </div>
 
                     <div className="grid justify-end">
-                        <p className="text-sm">halopak@gmail.com</p>
+                        <p className="text-sm">sigap@gmail.com</p>
                         <div className="flex gap-3 mt-3">
                             <img src="./icon/ig.svg" alt="Instagram" className="w-5 h-5" />
                             <img src="./icon/yt.svg" alt="YouTube" className="w-5 h-5" />
